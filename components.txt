@@ -1,0 +1,14 @@
+Header
+
+MainContent
+
+    SoccerField
+    (Escolher formação e campo de futebol)
+
+    RoundMatches
+    (Jogos da rodada)
+
+    Players
+    (Filtro e busca de jogadores e lista de jogadores)
+
+Footer
